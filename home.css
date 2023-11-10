@@ -1,0 +1,30 @@
+.bd{
+    margin-top: 0px;
+    
+     background-repeat: no-repeat;
+    border-style: ridge;
+    
+    }
+li {
+     float: left;
+     display: inline;
+     border-right: 1px,solid,rgb(19, 18, 18);
+     display: block;
+     padding-left: 5px;
+    }
+a{
+    display: inline-blockS;
+    padding: 0px;
+    color: rgb(15, 14, 14);
+    float: left;
+    }
+    #bname{
+        background-position: right;
+        padding-left: 100px;
+    }
+.header {
+    border-style: ridge;
+    background-image:url('watercolor-vintage-medical-sign-caduceus-watercolor-vintage-medical-sign-caduceus-high-quality-medicine-logo-illustration-196612309.jpg');
+    background-size: 90px;
+    background-repeat: no-repeat;
+}
